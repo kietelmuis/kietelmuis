@@ -1,6 +1,6 @@
 # 📋 Working on
-- Masquerade [LUA U] (Private)
-- Index [CPP] (Closed Source)
+- Masquerade
+- Index Distribution Manager
 
 # 📖 Languages
 - Lua
