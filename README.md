@@ -3,12 +3,15 @@
 - Index [CPP] (Closed Source)
 
 # 📖 Languages
-- Lua U
-- CSharp
+- Lua
+- C#
 - C++
 - JavaScript & TS
+- Rust
 
 # 🧰 Tools
 - Rojo
 - DarkLua
 - Roact
+- VSCodium
+- dnSpy
