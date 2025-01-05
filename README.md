@@ -5,7 +5,7 @@
 - JavaScript & TS
 - Rust
 
-# 🧰 Tools
+## 🧰 Tools
 - Rojo
 - DarkLua
 - Fusion
