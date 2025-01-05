@@ -1,9 +1,4 @@
-# 📋 Working on
-- Masquerade
-- Index
-- nivalis
-
-# 📖 Languages
+## 📖 Languages
 - Lua
 - C#
 - C++
@@ -13,6 +8,5 @@
 # 🧰 Tools
 - Rojo
 - DarkLua
-- Roact
-- VSCodium
-- dnSpy
+- Fusion
+- VSCode
