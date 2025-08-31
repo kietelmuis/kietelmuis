@@ -1,8 +1,3 @@
-# ⁉️ 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎
-- 2 years of experience with fighting the rust compiler
-- 2 years of experience with go and c++
-- 6 years of experience with c-sharp
-
 # 🗃️ 𝚜𝚝𝚊𝚌𝚔
 <div align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
