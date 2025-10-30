@@ -1,4 +1,4 @@
-# 🗃️ 𝚜𝚝𝚊𝚌𝚔
+# stack
 <div align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Go-00ADD8?&style=plastic&logo=go&logoColor=white" alt="Go">
@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Dart-08589C?style=plastic&logo=flutter&logoColor=white" alt="Dart (Flutter)">
 </div>
 
+# statistics
 <img src="https://github-readme-stats.vercel.app/api?username=kietelmuis&theme=dark&hide_border=true">
 
 <picture>
