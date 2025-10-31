@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Gtk4-CC0000?style=plastic&logo=gtk&logoColor=white" alt="Gtk4">
 </div>
 
-- **[Clipper[(https://github.com/kietelmuis/clipper)** — Capture the last 30 seconds of activity instantly with a single button press.  
+- **[Clipper](https://github.com/kietelmuis/clipper)** — Capture the last 30 seconds of activity instantly with a single button press.  
 <div align="left">
   <img src="https://img.shields.io/badge/Dart-08589C?style=plastic&logo=dart&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white" alt="FFmpeg">
