@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/Dart-08589C?style=plastic&logo=dart&logoColor=white" alt="Dart" style="vertical-align:middle;margin-left:4px;">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white" alt="FFmpeg" style="vertical-align:middle;margin-left:4px;">
 
+- **[SimpleTree](https://github.com/kietelmuis/simpletree)** — Behavior tree implementation in luau  
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=plastic&logo=lua&logoColor=white" alt="Lua" style="vertical-align:middle;margin-left:4px;">
+
 ---
 
 ## statistics
