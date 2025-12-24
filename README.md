@@ -1,4 +1,4 @@
-## languages
+## skills
 <img src="https://skillicons.dev/icons?i=rust,go,lua,cs,cpp,cmake,gtk,dart,flutter" />
 
 ---
