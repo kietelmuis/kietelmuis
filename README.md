@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Gtk4-CC0000?style=plastic&logo=gtk&logoColor=white" alt="Gtk4" style="vertical-align:middle;margin-left:4px;">
 
 - **[Clipper](https://github.com/kietelmuis/clipper)** — Capture the last 30 seconds of activity instantly with a single button press.  
-  <img src="https://img.shields.io/badge/Dart-08589C?style=plastic&logo=dart&logoColor=white" alt="Dart" style="vertical-align:middle;margin-left:4px;">
+  <img src="https://img.shields.io/badge/Rust-B7410E?style=plastic&logo=rust&logoColor=white" alt="Dart" style="vertical-align:middle;margin-left:4px;">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white" alt="FFmpeg" style="vertical-align:middle;margin-left:4px;">
 
 - **[SimpleTree](https://github.com/kietelmuis/simpletree)** — Behavior tree implementation in luau  
