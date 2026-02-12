@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" style="vertical-align:middle;margin-left:4px;">
   <img src="https://img.shields.io/badge/Gtk4-CC0000?style=plastic&logo=gtk&logoColor=white" alt="Gtk4" style="vertical-align:middle;margin-left:4px;">
 
-- **[Clipper](https://github.com/kietelmuis/clipper)** - Record the last 30 seconds of gameplay
+- **[Clipper](https://github.com/kietelmuis/clipper)** - Record the last 30 seconds of gameplay  
   <img src="https://img.shields.io/badge/Rust-B7410E?style=plastic&logo=rust&logoColor=white" alt="Dart" style="vertical-align:middle;margin-left:4px;">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white" alt="FFmpeg" style="vertical-align:middle;margin-left:4px;">
 
