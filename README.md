@@ -21,13 +21,3 @@
 
 - **[SimpleTree](https://github.com/kietelmuis/simpletree)** - Behavior tree implementation in luau  
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=plastic&logo=lua&logoColor=white" alt="Lua" style="vertical-align:middle;margin-left:4px;">
-
----
-
-## statistics
-<img src="https://github-readme-stats.vercel.app/api?username=kietelmuis&theme=dark&hide_border=true">
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kietelmuis/kietelmuis/output/github-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kietelmuis/kietelmuis/output/github-snake.svg" />
-</picture>
