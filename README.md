@@ -1,9 +1,11 @@
 ## skills
-<img src="https://skillicons.dev/icons?i=rust,go,lua,cs,cpp,cmake,gtk,dart,flutter" />
+
+<img src="https://skillicons.dev/icons?i=rust,go,lua,cs,cpp,cmake,gtk,dart,flutter,nix" />
 
 ---
 
 ## projects
+
 - **[XRooster](https://github.com/PhoebeSoftware/xrooster)** - School schedule app using the MyX API  
   <img src="https://img.shields.io/badge/Dart-08589C?style=plastic&logo=dart&logoColor=white" alt="Dart" style="vertical-align:middle;margin-left:4px;">
   <img src="https://img.shields.io/badge/Flutter-08589C?style=plastic&logo=flutter&logoColor=white" alt="Flutter" style="vertical-align:middle;margin-left:4px;">
