@@ -13,7 +13,7 @@
 - **[Exhibition](https://github.com/PhoebeSoftware/exhibition-launcher)** - Game launcher with BitTorrent and Real-Debrid clients  
   <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" alt="Go" style="vertical-align:middle;margin-left:4px;">
 
-- **[wsteam](https://github.com/kietelmuis/wsteam)** - Steam client and wine prefix manager  
+- **[wsteam](https://github.com/kietelmuis/wsteam)** - CLI Steam manifest downloader  
   <img src="https://img.shields.io/badge/CSharp-%2300599C.svg?style=plastic&logo=sharp&logoColor=white" alt="C++" style="vertical-align:middle;margin-left:4px;">
   <img src="https://img.shields.io/badge/Photino-004480?style=plastic&logo=photon&logoColor=white" alt="Gtk4" style="vertical-align:middle;margin-left:4px;">
 
