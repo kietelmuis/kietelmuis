@@ -10,8 +10,15 @@
   <img src="https://img.shields.io/badge/Dart-08589C?style=plastic&logo=dart&logoColor=white" alt="Dart" style="vertical-align:middle;margin-left:4px;">
   <img src="https://img.shields.io/badge/Flutter-08589C?style=plastic&logo=flutter&logoColor=white" alt="Flutter" style="vertical-align:middle;margin-left:4px;">
 
+  <p float="Schedule">
+    <img src="https://raw.githubusercontent.com/PhoebeSoftware/xrooster/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" alt="rooster pagina" width="200" />
+    <img src="https://raw.githubusercontent.com/PhoebeSoftware/xrooster/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" alt="extra info tab" width="200" />
+</p>
+
 - **[Exhibition](https://github.com/PhoebeSoftware/exhibition-launcher)** - Game launcher with BitTorrent and Real-Debrid clients  
   <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" alt="Go" style="vertical-align:middle;margin-left:4px;">
+
+  <img src="https://raw.githubusercontent.com/PhoebeSoftware/exhibition-launcher/main/assets/library.png" alt="exhibition launcher" width="600">
 
 - **[wsteam](https://github.com/kietelmuis/wsteam)** - CLI Steam manifest downloader  
   <img src="https://img.shields.io/badge/CSharp-%2300599C.svg?style=plastic&logo=sharp&logoColor=white" alt="C#" style="vertical-align:middle;margin-left:4px;">
