@@ -23,9 +23,12 @@
 - **[wsteam](https://github.com/kietelmuis/wsteam)** - CLI Steam manifest downloader  
   <img src="https://img.shields.io/badge/CSharp-%2300599C.svg?style=plastic&logo=sharp&logoColor=white" alt="C#" style="vertical-align:middle;margin-left:4px;">
 
-- **[Clipper](https://github.com/kietelmuis/clipper)** - Record the last 30 seconds of gameplay  
-  <img src="https://img.shields.io/badge/Rust-B7410E?style=plastic&logo=rust&logoColor=white" alt="Dart" style="vertical-align:middle;margin-left:4px;">
+- **[Clipper](https://github.com/kietelmuis/clipper)** - Record the last 30 seconds of gameplay (wip)  
+  <img src="https://img.shields.io/badge/Rust-B7410E?style=plastic&logo=rust&logoColor=white" alt="Rust" style="vertical-align:middle;margin-left:4px;">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white" alt="FFmpeg" style="vertical-align:middle;margin-left:4px;">
+
+  - **[winext](https://github.com/kietelmuis/winext)** - Mount Linux drives on Windows (wip)  
+  <img src="https://img.shields.io/badge/Rust-B7410E?style=plastic&logo=rust&logoColor=white" alt="Rust" style="vertical-align:middle;margin-left:4px;">
 
 - **[SimpleTree](https://github.com/kietelmuis/simpletree)** - Behavior tree implementation in luau  
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=plastic&logo=lua&logoColor=white" alt="Lua" style="vertical-align:middle;margin-left:4px;">
