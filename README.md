@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Rust-B7410E?style=plastic&logo=rust&logoColor=white" alt="Rust" style="vertical-align:middle;margin-left:4px;">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white" alt="FFmpeg" style="vertical-align:middle;margin-left:4px;">
 
-  - **[winext](https://github.com/kietelmuis/winext)** - Mount Linux drives on Windows (wip)  
+- **[winext](https://github.com/kietelmuis/winext)** - Mount Linux drives on Windows (wip)  
   <img src="https://img.shields.io/badge/Rust-B7410E?style=plastic&logo=rust&logoColor=white" alt="Rust" style="vertical-align:middle;margin-left:4px;">
 
 - **[SimpleTree](https://github.com/kietelmuis/simpletree)** - Behavior tree implementation in luau  
